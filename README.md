@@ -2,6 +2,8 @@
 
 ## NeumimTo has forked the plugin and is offering support on the G.E.A.R.S discord at https://discord.gg/y66aV9VC6s
 
+## Ive forked this plugin for privateish use 💀
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/pl3xgaming/Pl3xMap/master/plugin/src/main/resources/web/images/og.png" alt="Pl3xMap">
 
